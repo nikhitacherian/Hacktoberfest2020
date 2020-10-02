@@ -50,3 +50,7 @@
  - Place: Kerala, India
  - Bio: Student
  - GitHub: [imaGIN22](https://github.com/imaGIN22)
+ #### Name: [NIKHITA MARIAM CHERIAN](https://github.com/nikhitacherian)
+- Place: KERALA,INDIA
+- Bio: Student
+- GitHub: [nikhitacherian](https://github.com/nikhitacherian)
